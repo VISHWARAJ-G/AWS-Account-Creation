@@ -73,14 +73,14 @@ To create a cloud account in AWS and to explore all of its services.
 ## Snapshots
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/d7ddf027-9412-4a77-a441-916b060e5dca)" alt="AWS Account Creation Snapshot" width="600"/>
+  <img src="https://github.com/user-attachments/assets/d7ddf027-9412-4a77-a441-916b060e5dca" alt="AWS Account Creation Snapshot" width="600"/>
 </p>
 <p align="center"><strong>Snapshot 1: AWS Account Creation</strong></p>
 
 <br/>
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/529de898-a3b1-4f1c-b491-664b6115d1da)" alt="AWS Services Overview Snapshot" width="600"/>
+  <img src="https://github.com/user-attachments/assets/529de898-a3b1-4f1c-b491-664b6115d1da" alt="AWS Services Overview Snapshot" width="600"/>
 </p>
 <p align="center"><strong>Snapshot 2: Services in AWS</strong></p>
 
