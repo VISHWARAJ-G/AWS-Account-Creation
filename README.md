@@ -1,54 +1,91 @@
-# CREATE AN ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER
+# Ex.1 Cloud Account Setup and Services Overview in AWS
 
-### REG NUMBER: 212223220125
-### NAME: Vishwaraj G
+## Reg No: 212223220125
+## Name : Vishwaraj G.
 
-## AIM :
-To create an AWS account, set up a root user, and create an IAM user with specified permissions.
+## Aim:
+To create a cloud account in AWS and to explore all of its services.
 
-## PROBLEM STATEMENT :
-This experiment involves creating an AWS account, configuring security settings for the root user, and setting up an IAM user. IAM users allow for secure, managed access to AWS resources without exposing the main account's root credentials.
+---
 
-## ALGORITHM :
-Step 1:
-Create an AWS Account
+## Procedure
 
-Step 2:
-Log In as Root User
+### Step 1: Go to the AWS Website
+- Visit [AWS Website](https://aws.amazon.com)
+- Click **“Create an AWS Account”** in the top right corner.
 
-Step 3:
-Open IAM Management Console
+### Step 2: Enter Account Information
+- Email address – Use a valid email you have access to.
+- Password – Create a strong password.
+- AWS account name – This is the name you want to associate with your AWS account (e.g., your name or company name).
 
-Step 4:
-Add a New IAM User
+### Step 3: Choose Account Type
+- Select **Personal** or **Professional** based on your use case.
+- Fill in your contact information (name, address, phone number).
 
-Step 5:
-Configure IAM User Login
+### Step 4: Enter Payment Information
+- Provide your credit/debit card details.
+> _Note: You won’t be charged immediately. AWS offers a Free Tier, but card details are mandatory._
 
-Step 6:
-Set Permissions for IAM User
+### Step 5: Verify Your Identity
+- Enter your phone number.
+- AWS will send a verification code via call or text.
+- Enter the code to confirm your identity.
 
-Step 7:
-Review and Create IAM User
+### Step 6: Choose a Support Plan
+- Choose one of the following:
+  - Basic Support (Free)
+  - Developer Support
+  - Business Support
+  - Enterprise Support
+- _For most beginners, select **Basic Support**._
 
-## OUTPUT
+### Step 7: Complete the Sign-Up
+- After reviewing all the details, click **"Sign Up"**.
+- You’ll receive a confirmation email once your account is activated.
 
-1. Root user:
-![image](https://github.com/user-attachments/assets/f5fdf983-56fa-4eb7-bee2-b8a447704245)
+### Step 8: Sign In to AWS Console
+- Go to [AWS Console](https://console.aws.amazon.com)
+- Log in using your email and password.
 
+---
 
-![image](https://github.com/user-attachments/assets/70abca33-d4ac-4b32-8977-0844267ecd89)
+## Create a User with Administrative Access
 
+### Secure Your AWS Account Root User
+- Sign in to the AWS Management Console as the **Root user**.
+- Enable **Multi-Factor Authentication (MFA)** for your root user.
 
-3. IAM user:
-![image](https://github.com/user-attachments/assets/ae623b46-c80f-4003-952e-e8fbd6ec75e4)
+### Create a User with Administrative Access
+- Enable **IAM Identity Center**.
+- In IAM Identity Center, create a user and grant **Administrative access**.
 
+### Sign in as the User with Administrative Access
+- Use the sign-in URL sent to your email to log in.
 
-![image](https://github.com/user-attachments/assets/45014b38-393a-415b-939e-cda804fa7b7a)
+---
 
+## Services Overview
+- Explore all the available services in the AWS platform.
 
-## RESULT:
-The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account.
- 
+---
 
-  
+## Snapshots
+
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/d7ddf027-9412-4a77-a441-916b060e5dca)" alt="AWS Account Creation Snapshot" width="600"/>
+</p>
+<p align="center"><strong>Snapshot 1: AWS Account Creation</strong></p>
+
+<br/>
+
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/529de898-a3b1-4f1c-b491-664b6115d1da)" alt="AWS Services Overview Snapshot" width="600"/>
+</p>
+<p align="center"><strong>Snapshot 2: Services in AWS</strong></p>
+
+---
+
+## Result
+Thus, a cloud account was successfully created in the AWS platform and all the services were explored.
+
